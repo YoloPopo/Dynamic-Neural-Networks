@@ -14,9 +14,6 @@ This repository showcases the implementation and analysis of fundamental and adv
 .
 └── Dynamic Neural Networks.ipynb   # Jupyter Notebook containing all three implementations.
 ```
-
-*(Note: If you plan to provide datasets or helper files in the future, they can be added here.)*
-
 ---
 
 ## Part 1: Scaled Dot-Product Attention
